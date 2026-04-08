@@ -2,7 +2,7 @@
 
 Overview
 
-I explore Exploratory Data Analysis (EDA), dimensionality reduction, and feature selection techniques applied to a high-dimensional Kaggle dataset. 
+Exploratory Data Analysis (EDA), dimensionality reduction, and feature selection techniques applied to a high-dimensional Kaggle dataset. 
 
 The project utilizes the Airline Passenger Satisfaction dataset.
 
